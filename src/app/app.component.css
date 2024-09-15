@@ -1,0 +1,20 @@
+:host {
+    color: Red;
+}
+h1 {
+    align-items: center;
+}
+.verdana {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    border: 2px;
+}
+
+.small {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+
+.border {
+    border: 2px solid red;
+}
